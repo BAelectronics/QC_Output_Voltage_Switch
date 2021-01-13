@@ -49,6 +49,7 @@ One button hold and press the other --> save set Voltage to the EEPROM (next sta
 
 
 The device:
+
 ![device](https://github.com/BAelectronics/QC_Output_Voltage_Switch/blob/master/Device.jpg)
 
 
