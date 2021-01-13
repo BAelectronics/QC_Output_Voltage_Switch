@@ -4,7 +4,7 @@ The language of the video is Hungarian, but English subtitles are available.
 
 
 # USB gyorstöltő kimenő feszültségét beállító eszköz (5/9/12V)
-A videóban bemutatott és a projekthez tartozó fájlok, rajzok, kódok stb. megtalálható ezen az oldalon.
+A videóban bemutatott és a projekthez tartozó fájlok, rajzok, kódok stb. megtalálhatóak ezen az oldalon.
 
 A vezérlőpanel kapcsolása és nyákterve KiCad 5.1 programmal készült.
 
@@ -27,7 +27,7 @@ Egyiket nyomvatartva és megnyomva a másikat --> beállított feszültség ment
 
 
 # USB Quick Charge output voltage switch device (5/9/12V)
-Files, schematics, codes, etc. You can find hereEverything what presented in the video and associated with the project.
+You can find here files, schematics, codes, etc. Everything what presented in the video and associated with the project.
 
 The control board schematic and PCB designed with KiCad 5.1.
 
