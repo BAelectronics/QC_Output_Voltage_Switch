@@ -48,9 +48,7 @@ Both button pressed at the same time --> set 5V
 One button hold and press the other --> save set Voltage to the EEPROM (next start auto load)
 
 
-
-
-All credits go to :
+Thanks to them:
 - [Hugatry's HackVlog](https://www.youtube.com/channel/UCHgeChD442K0ah-KxEg0PHw) He came up with the idea and first code to control QC2. 
-- [QC2Control](https://github.com/septillion-git/QC2Control) Timo Engelgeer (Septillion) who made a nice wrapper for Quick Charge 2.0.
-- [QC2Control](https://github.com/vdeconinck/QC3Control) He is the latest developer of the idea.
+- [QC2Control](https://github.com/septillion-git/QC2Control) Timo Engelgeer (Septillion) who made a nice wrapper for QC2.
+- [QC3Control](https://github.com/vdeconinck/QC3Control) He is the latest developer of the idea for QC3.
