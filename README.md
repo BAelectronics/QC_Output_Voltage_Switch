@@ -47,6 +47,8 @@ Both button pressed at the same time --> set 5V
 
 One button hold and press the other --> save set Voltage to the EEPROM (next start auto load)
 
+(Device.png)
+
 
 Thanks to them:
 - [Hugatry's HackVlog](https://www.youtube.com/channel/UCHgeChD442K0ah-KxEg0PHw) He came up with the idea and first code to control QC2. 
