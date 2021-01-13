@@ -47,7 +47,7 @@ Both button pressed at the same time --> set 5V
 
 One button hold and press the other --> save set Voltage to the EEPROM (next start auto load)
 
-(Device.png)
+!(Device.png)
 
 
 Thanks to them:
