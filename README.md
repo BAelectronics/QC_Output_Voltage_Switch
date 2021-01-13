@@ -11,14 +11,14 @@ A vezérlőpanel kapcsolása és nyákterve KiCad 5.1 programmal készült.
 Ezzel a kis adapterrel egyszerűen lehet módosítani egy Quick Charge 2.0 vagy 3.0 képes USB-s gyorstöltő kimenő feszültségét. A hardver egyféle, azonban 2 eltérő működésű szoftver van fejlesztve, hogy ha valaki utánépítené akkor ki tudja választani a számára szimpatikus módot. Természetesen lehet kombinálni is vagy másfajta működést kitalálni ha van hozzá affinitásod.
 
 
-## MODE 1 Képességek
+### MODE 1 Képességek
 +gomb --> feszültség növelése +0,2Volttal
 
 -gomb --> feszültség csökkentése -0,2Volttal
 
 Mindkét gombot egyszerre lenyomva --> 5V beállítás
 
-## MODE 2 Képességek
+### MODE 2 Képességek
 +gomb --> ugrás 9Voltra 5Voltról vagy 12Voltra 9Voltról
 
 -gomb --> ugrás 9Voltra 12Voltról vagy 5Voltra 9Voltról
