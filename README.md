@@ -49,8 +49,9 @@ One button hold and press the other --> save set Voltage to the EEPROM (next sta
 
 !(Device.png)
 
-![QC3Control circuit](Device.png)
+![QC3Control circuit](master/Device.jpg)
 
+// https://github.com/BAelectronics/QC_Output_Voltage_Switch/blob/master/Device.jpg
 
 Thanks to them:
 - [Hugatry's HackVlog](https://www.youtube.com/channel/UCHgeChD442K0ah-KxEg0PHw) He came up with the idea and first code to control QC2. 
