@@ -34,18 +34,14 @@ The control board schematic and PCB designed with KiCad 5.1.
 With this small adapter, you can easily adjust the output voltage of a Quick Charge 2.0 or 3.0 capable USB charger with only an ATtiny13A MCU and few parts. The hardware is one, but the software has 2 different mode, so if you want to rebuild, then you can choose the mode they like. Of course, you can also combine or develop new with a different kind of action if you have an affinity for it.
 
 ### MODE 1 features
-+button --> increase the Voltage +0,2V
-
--button --> decrease the Voltage -0,2V
-
-Both button pressed at the same time --> set 5V
+- +button --> increase the Voltage +0,2V
+- -button --> decrease the Voltage -0,2V
+- Both button pressed at the same time --> set 5V
 
 ### MODE 2 features
-+button --> jump to 9V from 5V or jump to 12V from 9V
-
--button --> jump to 9V from 12V or jump to 5V from 9V
-
-One button hold and press the other --> save set Voltage to the EEPROM (next start auto load)
+- +button --> jump to 9V from 5V or jump to 12V from 9V
+- -button --> jump to 9V from 12V or jump to 5V from 9V
+- One button hold and press the other --> save set Voltage to the EEPROM (next start auto load)
 
 
 The device:
