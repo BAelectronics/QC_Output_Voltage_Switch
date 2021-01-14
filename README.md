@@ -12,18 +12,14 @@ Ezzel a kis adapterrel egyszerűen lehet módosítani egy Quick Charge 2.0 vagy 
 
 
 ### MODE 1 képességek
-+gomb --> feszültség növelése +0,2Volttal
-
--gomb --> feszültség csökkentése -0,2Volttal
-
-Mindkét gombot egyszerre lenyomva --> 5V beállítás
+- +gomb --> feszültség növelése +0,2Volttal
+- -gomb --> feszültség csökkentése -0,2Volttal
+- Mindkét gombot egyszerre lenyomva --> 5V beállítás
 
 ### MODE 2 képességek
-+gomb --> ugrás 9Voltra 5Voltról vagy 12Voltra 9Voltról
-
--gomb --> ugrás 9Voltra 12Voltról vagy 5Voltra 9Voltról
-
-Egyiket nyomvatartva és megnyomva a másikat --> beállított feszültség mentése EEPROM-ba ami legközelebbi indításnál automatikusan betöltődik
+- +gomb --> ugrás 9Voltra 5Voltról vagy 12Voltra 9Voltról
+- -gomb --> ugrás 9Voltra 12Voltról vagy 5Voltra 9Voltról
+- Egyiket nyomvatartva és megnyomva a másikat --> beállított feszültség mentése EEPROM-ba ami legközelebbi indításnál automatikusan betöltődik
 
 
 # USB Quick Charge output voltage switch device (5/9/12V)
